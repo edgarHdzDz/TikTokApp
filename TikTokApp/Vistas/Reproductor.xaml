@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TikTokApp.Vistas.Reproductor">
+    <Grid BackgroundColor="Black"
+          RowDefinitions="*, 80">
+        <Image Source="https://i.ibb.co/yWS3jGP/Taylor-Swift.jpg" 
+               />
+        <!--#region Encabezado -->
+        <StackLayout HeightRequest="35" Orientation="Horizontal"
+                     VerticalOptions="Start" Margin="20">
+            <Image Source="https://i.ibb.co/XjTFpsK/live.png"/>
+            <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
+                <Label Text="Siguiendo" TextColor="#9A9A9A"
+                       VerticalOptions="Center"
+                       FontSize="23"
+                       FontAttributes="Bold"/>
+                <BoxView BackgroundColor="#F52E50"
+                         HeightRequest="12"
+                         WidthRequest="12"
+                         CornerRadius="6"
+                         VerticalOptions="Start"
+                         TranslationX="-8"/>
+                <Label Text="Para ti" TextColor="White"
+                       VerticalOptions="Center"
+                       FontSize="23"
+                       FontAttributes="Bold"/>
+            </StackLayout>
+            <Image Source="https://i.ibb.co/nmXrvW3/search.png"
+                   VerticalOptions="Center"/>
+        </StackLayout>
+        <!--#endregion-->
+        <!--#region Pie de pagina -->
+        <StackLayout 
+                     Grid.Row="1"
+                     Orientation="Horizontal"
+                     Spacing="28"
+                     Margin="27,5">
+            <StackLayout>
+                <Image Source="https://i.ibb.co/Gc04cJd/casa-silueta-negra-sin-puerta.png" WidthRequest="30" HeightRequest="30"/>
+                <Label Text="Home"
+                       TextColor="White"
+                       FontAttributes="Bold"
+                       FontSize="12"/>
+            </StackLayout>
+            <StackLayout>
+                <Image Source="https://i.ibb.co/yBtq65s/brujula.png" WidthRequest="30" HeightRequest="30"/>
+                <Label Text="Tendencia"
+                       TextColor="White"
+                       FontAttributes="Bold"
+                       FontSize="12"/>
+            </StackLayout>
+            <Grid HorizontalOptions="CenterAndExpand">
+                <BoxView BackgroundColor="#FF02A0"
+                         TranslationX="10"
+                         CornerRadius="12"/>
+                <BoxView BackgroundColor="#00DFEF"
+                         TranslationX="-10"
+                         CornerRadius="12"/>
+                <Button Text="+"
+                        CornerRadius="12"
+                        FontAttributes="Bold"
+                        FontSize="30"
+                        BackgroundColor="White"/>
+            </Grid>
+            <StackLayout>
+                <Image Source="https://i.ibb.co/h8fGHNR/comentario.png" WidthRequest="30" HeightRequest="30"/>
+                <Label Text="Bandeja"
+                       TextColor="White"
+                       FontAttributes="Bold"
+                       FontSize="12"/>
+            </StackLayout>
+            <StackLayout>
+                <Image Source="https://i.ibb.co/WVfmrjF/usuario.png" WidthRequest="30" HeightRequest="30"/>
+                <Label Text="User"
+                       TextColor="White"
+                       FontAttributes="Bold"
+                       FontSize="12"/>
+            </StackLayout>
+
+        </StackLayout>
+        <!--#endregion-->
+    </Grid>
+</ContentPage>

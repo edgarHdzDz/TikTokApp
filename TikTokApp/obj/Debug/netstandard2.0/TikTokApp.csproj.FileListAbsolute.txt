@@ -1,0 +1,15 @@
+C:\Users\edgar\Desktop\TikTokApp\TikTokApp\bin\Debug\netstandard2.0\TikTokApp.deps.json
+C:\Users\edgar\Desktop\TikTokApp\TikTokApp\bin\Debug\netstandard2.0\TikTokApp.dll
+C:\Users\edgar\Desktop\TikTokApp\TikTokApp\bin\Debug\netstandard2.0\ref\TikTokApp.dll
+C:\Users\edgar\Desktop\TikTokApp\TikTokApp\bin\Debug\netstandard2.0\TikTokApp.pdb
+C:\Users\edgar\Desktop\TikTokApp\TikTokApp\obj\Debug\netstandard2.0\TikTokApp.csproj.AssemblyReference.cache
+C:\Users\edgar\Desktop\TikTokApp\TikTokApp\obj\Debug\netstandard2.0\TikTokApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edgar\Desktop\TikTokApp\TikTokApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\edgar\Desktop\TikTokApp\TikTokApp\obj\Debug\netstandard2.0\Vistas\Reproductor.xaml.g.cs
+C:\Users\edgar\Desktop\TikTokApp\TikTokApp\obj\Debug\netstandard2.0\TikTokApp.AssemblyInfoInputs.cache
+C:\Users\edgar\Desktop\TikTokApp\TikTokApp\obj\Debug\netstandard2.0\TikTokApp.AssemblyInfo.cs
+C:\Users\edgar\Desktop\TikTokApp\TikTokApp\obj\Debug\netstandard2.0\TikTokApp.csproj.CoreCompileInputs.cache
+C:\Users\edgar\Desktop\TikTokApp\TikTokApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\edgar\Desktop\TikTokApp\TikTokApp\obj\Debug\netstandard2.0\TikTokApp.dll
+C:\Users\edgar\Desktop\TikTokApp\TikTokApp\obj\Debug\netstandard2.0\ref\TikTokApp.dll
+C:\Users\edgar\Desktop\TikTokApp\TikTokApp\obj\Debug\netstandard2.0\TikTokApp.pdb
